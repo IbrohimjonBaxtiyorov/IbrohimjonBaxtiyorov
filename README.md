@@ -1,5 +1,24 @@
-Hi i am Ibrohim Bakhtiyarov 🖐️
-I am a front-end deweloper.
-I  study at 'Najot talim'
-I am currently studying the JavaScript programming language and the React library in depth.
-📊 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrohimjonBaxtiyorov&layout=compact&theme=radical) 
+# 👋 Hi there, I'm Ibrohimjon Baxtiyorov
+
+I'm a passionate web developer who enjoys creating modern and user-friendly websites using JavaScript, React, and Node.js.
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript concepts
+- Frontend frameworks like React
+
+## 🔧 Tech Stack
+
+- 💻 Languages: JavaScript, HTML, CSS
+- ⚙️ Tools & Frameworks: React, TailwindCSS, Git, GitHub,
+- 🛠️ Code Editor: VS Code
+
+## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrohimjonBaxtiyorov&layout=compact&theme=radical)
+
+## 📫 Let's connect
+
+
+- Email:baxtioyorovibrohim513@gmail.com
+
