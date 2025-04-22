@@ -20,5 +20,5 @@ I'm a passionate web developer who enjoys creating modern and user-friendly webs
 ## 📫 Let's connect
 
 
-- Email:baxtioyorovibrohim513@gmail.com
+- Email:baxtiyorovibrohim513@gmail.com
 
