@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ibrohimjon Baxtiyorov
 
-I'm a passionate web developer who enjoys creating modern and user-friendly websites using JavaScript, React, and Node.js.
+I'm a passionate web developer who enjoys creating modern and user-friendly websites using JavaScript and React
 
 ## 🌱 Currently Learning
 
