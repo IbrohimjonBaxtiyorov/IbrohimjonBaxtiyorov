@@ -9,8 +9,8 @@ I'm a passionate web developer who enjoys creating modern and user-friendly webs
 
 ## 🔧 Tech Stack
 
-- 💻 Languages: JavaScript, HTML, CSS
-- ⚙️ Tools & Frameworks: React, TailwindCSS, Git, GitHub,
+- 💻 Languages: JavaScript,TypeScript, HTML, CSS
+- ⚙️ Tools & Frameworks: React,NextJS, TailwindCSS, Git, GitHub,
 - 🛠️ Code Editor: VS Code
 
 ## 📈 GitHub Stats
