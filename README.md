@@ -17,6 +17,11 @@ I'm a passionate web developer who enjoys creating modern and user-friendly webs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IbrohimjonBaxtiyorov&layout=compact&theme=radical)
 
+## ⏱️ WakaTime Stats
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_USERNAME&theme=radical&layout=compact)
+
+
 ## 📫 Let's connect
 
 
