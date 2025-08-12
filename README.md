@@ -9,8 +9,8 @@ I'm a passionate web developer who enjoys creating modern and user-friendly webs
 
 ## 🔧 Tech Stack
 
-- 💻 Languages: JavaScript,TypeScript, HTML, CSS
-- ⚙️ Tools & Frameworks: React,NextJS, TailwindCSS, Git, GitHub,
+- 💻 Languages: JavaScript,TypeScript
+- ⚙️ Tools & Frameworks: React , NextJS , StrApi, TailwindCSS, Git, GitHub,
 - 🛠️ Code Editor: VS Code
 
 ## 📈 GitHub Stats
@@ -25,5 +25,5 @@ I'm a passionate web developer who enjoys creating modern and user-friendly webs
 ## 📫 Let's connect
 
 
-- Email:baxtiyorovibrohim513@gmail.com
+- Email : baxtiyorovibrohim513@gmail.com
 
