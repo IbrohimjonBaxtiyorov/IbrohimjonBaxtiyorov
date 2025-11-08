@@ -3,7 +3,7 @@
 I'm a passionate web developer who enjoys creating modern and user-friendly websites using JavaScript and React
 
 ## 🌱 Currently Learning
-- AI,ML,DL,Learning
+- AI  ML  DL Learning
 - Advanced JavaScript concepts
 - Frontend frameworks like React
 
