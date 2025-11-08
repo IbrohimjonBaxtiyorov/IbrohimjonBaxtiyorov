@@ -3,13 +3,13 @@
 I'm a passionate web developer who enjoys creating modern and user-friendly websites using JavaScript and React
 
 ## 🌱 Currently Learning
-
+- AI,ML,DL,Learning
 - Advanced JavaScript concepts
 - Frontend frameworks like React
 
 ## 🔧 Tech Stack
 
-- 💻 Languages: JavaScript,TypeScript
+- 💻 Languages: JavaScript,TypeScript,Python
 - ⚙️ Tools & Frameworks: React , NextJS , StrApi, TailwindCSS, Git, GitHub,
 - 🛠️ Code Editor: VS Code
 
